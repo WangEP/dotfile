@@ -1,0 +1,13 @@
+[user]
+	email = wang.erpang@qq.com
+	name = WangEP
+[alias]
+	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+    co = commit
+    ch = checkout
+    br = branch
+    st = status
+; [http]
+; 	proxy = socks5://127.0.0.1:10801
+; [https]
+; 	proxy = socks5://127.0.0.1:10801
